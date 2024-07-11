@@ -1,6 +1,7 @@
-bool Elnaz == True;
+bool Elnaz = True;
 string My_Heart = ""
 while(Elnaz){
    My_Heart += "Elnazm"
 }
 1
+2
